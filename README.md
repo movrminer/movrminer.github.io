@@ -1,2 +1,2 @@
-# avaxminer.github.io
-avaxminer
+# movrminer.github.io
+movrminer
