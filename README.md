@@ -1,2 +1,0 @@
-# MOVRminer.github.io
-MOVRminer
